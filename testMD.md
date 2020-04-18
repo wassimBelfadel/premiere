@@ -1,6 +1,6 @@
 # Titre
 
-##sous titre
+## sous titre
 
 $2^{10}$
 
