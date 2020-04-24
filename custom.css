@@ -8,8 +8,9 @@ background-color:pink;
 }
 
 .alert::before {
-  content : "AVERTISSEMENT &#10 &#10";
+  content : "AVERTISSEMENT";
   font-weight : bold;
+  display:block;
 }
 
 .question
@@ -19,7 +20,8 @@ background-color:pink;
 }
 
 .question::before {
-  content : "Question " counter(question) " : &#10 &#10";
+  content : "Question " counter(question) " : ";
   font-weight : bold;
+  display:block;
 }
 
