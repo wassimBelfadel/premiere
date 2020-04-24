@@ -3,7 +3,9 @@
 background-color:pink;
 }
 
+
 .alert::before {
   content : "WARNING";
   font-weight : bold;
+
 }
