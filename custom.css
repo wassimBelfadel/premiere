@@ -8,7 +8,7 @@ background-color:pink;
 }
 
 .alert::before {
-  content : "AVERTISSEMENT\n\n";
+  content : "AVERTISSEMENT<br/><br/>";
   font-weight : bold;
 }
 
