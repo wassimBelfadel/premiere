@@ -8,7 +8,7 @@ background-color:pink;
 }
 
 .alert::before {
-  content : "AVERTISSEMENT&#D&#D";
+  content : "AVERTISSEMENT &#13 &#13";
   font-weight : bold;
 }
 
@@ -19,7 +19,7 @@ background-color:pink;
 }
 
 .question::before {
-  content : "Question " counter(question) " : &#D&#D";
+  content : "Question " counter(question) " : &#13 &#13";
   font-weight : bold;
 }
 
