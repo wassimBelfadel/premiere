@@ -20,7 +20,7 @@ background-color:pink;
 }
 
 .question::before {
-  content : "Question " counter(question) "\A\A";
+  content : "Question " counter(question) "\A" "\A";
   font-weight : bold;
   text-decoration:underline;
 }
