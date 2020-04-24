@@ -1,11 +1,25 @@
+body {
+  counter-reset:question;
+}
+
 .alert
 {
 background-color:pink;
 }
 
-
 .alert::before {
   content : "AVERTISSEMENT";
   font-weight : bold;
-
 }
+
+.question
+{
+  background-color:lightblue;
+  counter-increment:question;
+}
+
+.question::before {
+  content : "Question" counter(question) ":";
+  font-weight : bold;
+}
+
