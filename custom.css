@@ -15,14 +15,13 @@ background-color:pink;
 
 .question
 {
-  background-color:lightblue;
+  background-color:blue;
   counter-increment:question;
 }
 
 .question::before {
-  content : "Question " counter(question) "\A";
+  content : "Question " counter(question);
   font-weight : bold;
-  text-decoration:underline;
   display:block;
 }
 
