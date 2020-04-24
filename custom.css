@@ -3,6 +3,6 @@
 background-color:pink;
 }
 
-.alert::before {
+div.alert::before {
   content : "**WARNING**";
 }
