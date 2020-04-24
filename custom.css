@@ -15,12 +15,12 @@ background-color:pink;
 
 .question
 {
-  background-color:lightblue;
+  background-color:blue;
   counter-increment:question;
 }
 
 .question::before {
-  content : "Question ";
+  content : "Question " counter(question);
   font-weight : bold;
   display:block;
 }
