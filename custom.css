@@ -20,7 +20,7 @@ background-color:pink;
 }
 
 .question::before {
-  content : "Question " counter(question);
+  content : "Question ";
   font-weight : bold;
   display:block;
 }
