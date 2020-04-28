@@ -14,7 +14,7 @@ L'installation est très simple et peut se faire sous Linux, Windows ou Mac. Il 
 
 Deux façons de lancer Thonny :
 
-* cliquer sur l'icône icône thonny <img src="img/thonny.ico" style="width:50px"/> se trouvant sur la barre de gauche du bureau en salle de TP.   
+* cliquer sur l'icône icône thonny ![icone](img/thonny_icone.png) se trouvant sur la barre de gauche du bureau en salle de TP.   
   (Parfois Thonny ne se lance pas sur Linux/Ubuntu. Dans ce cas, simplement ouvrir un terminal de commandes en cliquant sur ![terminal](img/terminal.png) permet de le lancer.)
 
 * lancer un terminal de commandes en cliquant sur ![terminal](img/terminal.png) puis tapez la commande `thonny &` dans la fenêtre du terminal
