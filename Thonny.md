@@ -1,3 +1,15 @@
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Installation](#installation)
+- [Lancement de Thonny](#lancement-de-thonny)
+- [Un petit tour dans Thonny](#un-petit-tour-dans-thonny)
+	- [La zone d'édition et la zone de Shell](#la-zone-ddition-et-la-zone-de-shell)
+	- [La zone Variables](#la-zone-variables)
+- [Utilisation du mode pas à pas](#utilisation-du-mode-pas-pas)
+- [Installation de modules python](#installation-de-modules-python)
+
+<!-- /TOC -->
+
 `Thonny` est un environnement de programmation en Python (IDE en anglais pour Integrated Development Environment) conçu pour les débutants. C'est un logiciel **libre** et gratuit que l'on peut installer sur les plateformes usuelles Windows, Mac et Linux. C'est l'outil de programmation **privilégié** que vous utiliserez pour chacun de vos TP de programmation.
 
 # Installation
@@ -30,6 +42,8 @@ Cette fenêtre présente une barre de menus et sous cette barre, par défaut, de
 * l'une nommée (pour l'instant) \<untitled> ;
 * l'autre Shell.
 
+## La zone d'édition et la zone de Shell
+
 La zone \<untitled> est une zone d'édition dans laquelle vous pourrez rédiger votre code, c'est-à-dire votre programme. La zone Shell est celle où vous pouvez exécuter des commandes Python (vous pouvez remarquer la mention de la version de Python utilisée par exemple Python 3.5.2).
 
 Ce sont ces deux zones que vous utiliserez essentiellement lors de tous vos travaux d'informatique par un va et vient entre ces deux zones : la zone d'édition pour rédiger/corriger/améliorer votre code, et le shell pour exécuter une commande Python.
@@ -58,7 +72,7 @@ Ce mode permet d'aider le programmeur à trouver l'origine du problème. Pour ce
 
 **Remarque :** L'utilisation de ce mode sera vu en temps utile lors des TP.
 
-# Installation de modules en python
+# Installation de modules python
 
 > Remarque : Il se peut que vous ayez déjà python installé sur votre machine. Il faut savoir que Thonny est complètement indépendant de toute autre installation python. Il en va de même pour les modules : Pour utiliser un module dans Thonny, il faut qu'il soit installé dans Thonny même si ce module a déjà été installé sur votre machine
 
