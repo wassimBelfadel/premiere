@@ -1,9 +1,10 @@
----
-title: Introduction à la représentation des données
-date: avril 2020
-author: R. Seynave
----
+<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Introduction à la représentation des données](#introduction-la-reprsentation-des-donnes)
+	- [3 constats](#3-constats)
+	- [2 conclusions](#2-conclusions)
+
+<!-- /TOC -->
 # Introduction à la représentation des données
 
 ## 3 constats
@@ -57,6 +58,6 @@ L'octet `11000111` représente :
   * donne la méthode pour passer d'une suite de 0 et de 1 en une _"donnée réelle"_ (texte, nombres, image, etc...)
   * définit les opérations possibles pour chaque donnée. Aisni on ne peut pas faire les mêmes opérations avec une donnée de type **entier** et une donnée de type **texte** (par exemple l'opérateur **soustraction** est possible avec des **entiers** mais est impossible avec du **texte**)
 
-**Conclusion 2 :** Les programmes sont eux-mêmes stockés comme une suite de bit. 
+**Conclusion 2 :** Les programmes sont eux-mêmes stockés comme une suite de bit.
 Donc le seul langage réellement compréhensible par la machine est le langage binaire,
 aussi appelé [langage machine](https://fr.wikipedia.org/wiki/Langage_machine)
