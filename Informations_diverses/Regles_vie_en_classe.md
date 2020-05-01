@@ -9,7 +9,8 @@ Je suis un promoteur de [la culture du logiciel libre](https://fr.wikipedia.org/
 
 # Règle de vie dans la salle informatique
 
-* **Nourriture, boisson, écouteurs, portable interdits** (sauf mention contraire explicite du professeur). Les ordinateurs supportent mal les projections de liquide et digèrent mal les restes de gâteaux...
+* **Nourriture, boisson interdits**. Les ordinateurs ne supportent pas les projections de liquide et digèrent mal les restes de gâteaux...
+* **écouteurs, portable interdits** (sauf mention contraire explicite du professeur)
 * **clé USB interdite** (sauf mention contraire explicite du professeur). Nous utiliserons un outil moderne et professionnel comme **Github**
 * 1 seul élève par poste (pas de binôme)
 * Les postes ne sont pas nominatifs, votre place non plus : Si je vous demande de changer de place, notamment à cause de problèmes de comportement, il vaut mieux pour vous le faire rapidement sans discuter ! (voir première phrase de ce document)
@@ -32,7 +33,7 @@ Les séances durent 4 heures pour des raisons indépendantes de ma volonté et d
 
 # Qualité et quantité de travail à fournir en NSI
 
-> L'expérience de l'année dernière montre qu'un élève qui ne travaille pas chez lui en NSI est **très vite décroché, parfois définitivement**. Souvent un mauvais choix de spécialité en est à l'origine. 2 semaines peuvent suffire pour être définitivement décroché. Pour rappel les moyennes de l'année dernière s'échelonnent de 0 (inclus) à 18. Et elles comptent pour le baccalauréat !!
+> L'expérience de l'année dernière montre qu'un élève qui ne travaille pas chez lui en NSI est **très vite décroché, parfois définitivement**. Souvent un mauvais choix de spécialité en est à l'origine. 2 semaines suffisent pour décrocher. Pour rappel les moyennes de l'année dernière s'échelonnent de 0 (inclus) à 18. Et elles comptent pour le baccalauréat !!
 
 > Bien souvent le mot "Travail" pour un élève et "Travail" pour un professeur ne veut pas dire la même chose. Se contenter de lire son cours est largement insuffisant. C'est du "Travail" pour certains élèvent mais certainement pas pour moi.
 
