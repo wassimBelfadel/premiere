@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Exercice 1</title>
+  </head>
+  <body>
+    <h1>Programmation événementielle en JAVASCRIPT</h1>
+    <p onclick="this.innerHTML='...un programme javascript qui le modifie'"> Un événement "clic" sur ce paragraphe va déclencher...</p>
+    <ul> D'autres événements ont été programmés sur les deux éléments de cette liste :
+      <li ondblclick="window.alert('un programme javascript qui affiche une fenêtre pop-up !!')">Un événement "Double clic" sur cet item de liste va déclencher...</li>
+      <li onmouseover="this.style.color = 'blue'">Un événement "survol de la souris" sur cet item de liste va déclencher un programme javascript qui en change la couleur</li>
+    </ul>
+    <img id="image1" src="img/BrendanEich.jpg" alt="Brendan Eich, inventeur du javascript">
+    <img id="image2" src="img/logoJS.png" alt="Logo de javascript">
+    <button type="button" onclick="document.getElementById('image1').src = 'img/logoJS.png';document.getElementById('image2').src = 'img/BrendanEich.jpg'">Permuter les photos</button>
+    <p>Tappez sur une touche pour remettre la page dans son état initial</p>
+    <script type="text/javascript">
+      function reinitialiser(){
+        document.getElementById('image1').src="img/BrendanEich.jpg";
+        document.getElementById('image2').src="img/logoJS.png";
+        document.querySelector('li+li').style.color='black';
+        document.querySelector('p').innerHTML="Un événement \"clic\" sur ce paragraphe va déclencher...";
+      }
+      window.addEventListener('keydown', reinitialiser)
+    </script>
+  </body>
+</html>
