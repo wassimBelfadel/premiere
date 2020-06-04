@@ -27,10 +27,11 @@
     <h2>Pincipes de la programmation événementielle</h2>
 
     <p><strong><a href="https://fr.wikipedia.org/wiki/Programmation_%C3%A9v%C3%A9nementielle">La programmation événementielle</a></strong>,
-      consiste à déclencher l'exécution d'une portion de code, généralement encapsulée dans une <strong>fonction</strong>, à l'apparence
-      d'un <strong>évènement</strong> sur un <strong>élément cible</strong>.
+      consiste à déclencher l'exécution d'une <strong>fonction</strong> lorsqu'un <strong>évènement</strong>
+      sur l'<strong>élément cible</strong> apparaît.
       <p>On parle d'<strong>abonnement</strong> de la fonction à l'élément pour l'évenement.
-      La fonction attachée à un ́evenement est appelee fonction <strong>"gestionnaire d'évenement"</strong>
+      La fonction attachée à un ́evenement est appelee <strong>"fonction gestionnaire d'évenement"</strong> ou <strong>"fonction d'écoute"</strong>
+      ou encore <strong>fonction "event listener"</strong>
     </p>
 
     <p>Voici quelques exemples d'événements :</p>
@@ -52,11 +53,11 @@
     <h2>Exemples</h2>
 
     <div class="exemples">
-      <p>Un événement "clic" sur ce paragraphe cible va déclencher...</p>
+      <p>Un événement "clic" sur cette phrase (paragraphe cible) va déclencher...</p>
       <p>D'autres événements ont été programmés sur les deux éléments de cette liste :</p>
       <ul>
-        <li>Un événement "double clic" sur cet item de liste va déclencher...</li>
-        <li>Un événement "survol de la souris" sur cet item de liste va déclencher du code javascript qui en change la couleur</li>
+        <li id="monItem1">Un événement "double clic" sur cet item de liste va déclencher...</li>
+        <li id="monItem2">Un événement "survol de la souris" sur cet item de liste va déclencher du code javascript qui en change la couleur</li>
       </ul>
       <div class="images">
         <figure>
@@ -71,6 +72,5 @@
       </div>
       <p>Tappez sur une touche pour remettre la page dans son état initial</p>
     </div>
-    </script>
   </body>
 </html>
