@@ -1,6 +1,6 @@
 # Première NSI aux lycées Jean Rostand et Maxence Van der Meersch de Roubaix
 
-Cet endroit est un _repository_ **github** où se trouvent toutes les ressources pédagogiques et toutes les informations utiles aux élèves du lycée et à leur famille. C'est le seul endroit où venir pour tout ce qui concerne mon enseignement en NSI.
+Cet endroit est un _repository_ **github** où se trouvent toutes les ressources pédagogiques et toutes les informations utiles aux élèves du lycée et à leur famille.
 
 ## Que contient ce _repository_ ?
 
@@ -24,7 +24,10 @@ Cet endroit est un _repository_ **github** où se trouvent toutes les ressources
   * bloc 7 — Algorithmique
 
 
-* Dans **bloc1 à bloc7** : toutes les ressources pédagogiques nécessaires aux élèves pour suivre la formation (cours, TP, exercices, corrections, projets)
+* Dans **bloc1 à bloc7** : toutes les ressources pédagogiques nécessaires aux élèves pour suivre la formation (cours, TP, exercices, projets)
+
+
+* Dans **Corriges** : des éléments de corrections des activités faites pendant l'année
 
 ## Comment utiliser ce _repository_ ?
 
